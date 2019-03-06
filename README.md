@@ -9,8 +9,6 @@ Python tutorial notes for QUT\'s IFN645 - Data and Web Analytics. Any suggestion
 1. prac1.ipynb = Tutorial notes in Python Jupyter notebook format.
 2. prac1_exercise = Exercise questions designed to strengthen concepts related to the practical. Optional, but highly recommended.
 
-## Related resources:
-1. https://github.com/IFN645/IFN645_answers = Answers to weekly exercise questions.
 
 **Important: The content of this repository can be updated anytime. Any update after respective practical is conducted will be informed through emails, but otherwise I will only inform you through commit history. Please ensure you pull the latest version from the repository before each practical.**
 
